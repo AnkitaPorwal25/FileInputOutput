@@ -1,0 +1,48 @@
+This is a randomly generated text file.
+It contains several lines of text.
+Each line is just some placeholder content.
+The goal is to simulate a real text file.
+Feel free to replace this with your own data later.
+This file can be used for testing file operations.
+Adding more lines will help you test larger files.
+Last line of the sample content.
+
+This is my first file in Java
+
+Java is a popular programming language.
+It is used for building a variety of applications.
+Learning Java can help you land great job opportunities.
+Many frameworks are built using Java, including Spring and Hibernate.
+Java also has a strong community of developers.
+If you're new to Java, there are plenty of resources to get started.
+Java's versatility makes it an excellent choice for software development.
+
+This is a randomly generated text file.
+It contains several lines of text.
+Each line is just some placeholder content.
+The goal is to simulate a real text file.
+Feel free to replace this with your own data later.
+This file can be used for testing file operations.
+Adding more lines will help you test larger files.
+Last line of the sample content.
+
+
+This is a sample input file.
+It contains multiple lines.
+This is the third line.
+
+Log File - System Updates
+
+2025-05-01 12:30:00 - System started successfully.
+2025-05-02 08:45:00 - User login issue resolved.
+2025-05-03 14:20:00 - Security patch applied.
+2025-05-04 16:00:00 - Database backup completed.
+2025-05-05 09:10:00 - New user accounts created.
+Last updated on 2025-05-09 11:43:48
+
+This is my first file in Java
+
+This is a sample input file.
+It contains multiple lines.
+This is the third line.
+

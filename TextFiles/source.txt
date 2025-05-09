@@ -1,0 +1,8 @@
+This is a randomly generated text file.
+It contains several lines of text.
+Each line is just some placeholder content.
+The goal is to simulate a real text file.
+Feel free to replace this with your own data later.
+This file can be used for testing file operations.
+Adding more lines will help you test larger files.
+Last line of the sample content.

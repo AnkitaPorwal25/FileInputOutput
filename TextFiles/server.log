@@ -1,0 +1,8 @@
+2025-05-09 10:01:23 INFO  Server started successfully on port 8080
+2025-05-09 10:01:25 INFO  Connection established with database
+2025-05-09 10:01:27 WARN  Disk space running low
+2025-05-09 10:01:30 ERROR Failed to load configuration file
+2025-05-09 10:01:35 INFO  Scheduled job executed successfully
+2025-05-09 10:01:40 ERROR Connection timeout while contacting payment gateway
+2025-05-09 10:01:45 INFO  Server health check passed
+2025-05-09 10:01:50 ERROR NullPointerException encountered in RequestHandler

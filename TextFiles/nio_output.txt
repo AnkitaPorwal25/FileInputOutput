@@ -1,0 +1,4 @@
+Java NIO stands for New Input/Output.
+It provides a modern file handling API using Paths and Files.
+NIO is faster, scalable, and supports advanced file operations.
+This content will be copied using Java NIO.
