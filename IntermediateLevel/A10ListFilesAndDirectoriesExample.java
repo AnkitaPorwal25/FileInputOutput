@@ -25,3 +25,7 @@ public class A10ListFilesAndDirectoriesExample {
         }
     }
 }
+
+//
+//Write a program to list all files and directories in a folder called
+//documents.

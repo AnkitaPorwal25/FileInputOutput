@@ -25,3 +25,7 @@ public class A13LogMonitor {
         }
     }
 }
+
+//
+//Write a program that monitors a log file (server.log) and
+//prints only the lines that contain the word "ERROR".

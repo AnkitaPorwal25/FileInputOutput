@@ -56,3 +56,8 @@ public class A15CharacterFrequencyCounter {
         }
     }
 }
+
+//
+//Write a program that reads a text file and counts the frequency of
+//each character (including spaces and punctuation). Print the result to a
+//file named charcount.txt.

@@ -32,3 +32,7 @@ public class A7AppendToFileExample {
         }
     }
 }
+//
+//
+//Write a program to append the line “Last updated on [current
+//date]” to an existing file log.txt.

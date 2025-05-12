@@ -29,3 +29,8 @@ public class A1FileWriterExample {
         }
     }
 }
+
+//
+//Write a program to create a new text file named notes.txt and
+//write the line:
+//        “This is my first file in Java.”

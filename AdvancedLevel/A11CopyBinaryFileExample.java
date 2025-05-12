@@ -28,3 +28,7 @@ public class A11CopyBinaryFileExample {
         }
     }
 }
+
+//
+//Write a program to read a binary file (e.g., image.jpg) and copy
+//its contents to image_copy.jpg.

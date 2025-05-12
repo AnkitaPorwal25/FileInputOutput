@@ -24,3 +24,7 @@ public class A2FileReaderExample {
         }
     }
 }
+
+//
+//Write a program to read and print the contents of a file named
+//input.txt.

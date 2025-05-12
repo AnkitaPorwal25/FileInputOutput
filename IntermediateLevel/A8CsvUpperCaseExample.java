@@ -24,3 +24,7 @@ public class A8CsvUpperCaseExample {
         }
     }
 }
+
+//
+//Write a program that reads a CSV file named employees.csv
+//and prints each line in uppercase.

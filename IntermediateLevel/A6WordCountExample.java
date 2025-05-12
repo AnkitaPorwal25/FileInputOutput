@@ -29,3 +29,7 @@ public class A6WordCountExample {
         }
     }
 }
+
+//
+//Write a program to read all the words from paragraph.txt and
+//count how many times the word "Java" appears.

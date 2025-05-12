@@ -25,3 +25,7 @@ public class A4LineCountExample {
         }
     }
 }
+//
+//
+//Write a program to count the number of lines in a text file called
+//data.txt.

@@ -33,3 +33,7 @@ public class A12MergeTextFilesExample {
         }
     }
 }
+
+//
+//Write a program that reads all .txt files in a folder and merges
+//their contents into a single file named merged.txt.

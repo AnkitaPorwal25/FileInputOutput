@@ -25,3 +25,7 @@ public class A5FileCopyExample {
         }
     }
 }
+
+//
+//Write a program that copies the contents of source.txt to a new
+//file called backup.txt.

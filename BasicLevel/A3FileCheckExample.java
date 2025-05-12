@@ -15,3 +15,7 @@ public class A3FileCheckExample {
         }
     }
 }
+
+//
+//Write a program that checks if a file named report.pdf exists in
+//the current directory and prints its size (in bytes).

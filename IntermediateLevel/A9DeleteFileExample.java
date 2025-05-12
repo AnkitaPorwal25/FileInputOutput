@@ -18,3 +18,6 @@ public class A9DeleteFileExample {
         }
     }
 }
+
+//
+//Write a program to delete a file named oldfile.txt if it exists.
